@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1470269594 source:c:\users\benjamin\dropbox\proyectos\topdown_0\game.cpp
+	"game.h"
+
+1470264964 c:\users\benjamin\dropbox\proyectos\topdown_0\game.h
+	"includes.h"
+	"player.h"
+	"map.h"
+
+1470375809 c:\users\benjamin\dropbox\proyectos\topdown_0\includes.h
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/Audio.hpp>
+	<SFML/System.hpp>
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<time.h>
+	<vector>
+	<fstream>
+	<sstream>
+	<list>
+
+1470187210 source:c:\users\benjamin\dropbox\proyectos\topdown_0\main.cpp
+	"game.h"
+
+1473285673 source:c:\users\benjamin\dropbox\proyectos\topdown_0\player.cpp
+	"player.h"
+
+1470561455 c:\users\benjamin\dropbox\proyectos\topdown_0\player.h
+	"includes.h"
+	"bullets.h"
+	"map.h"
+	"utilities.h"
+
+1473283003 source:c:\users\benjamin\dropbox\proyectos\topdown_0\bullets.cpp
+	"bullets.h"
+
+1470364487 c:\users\benjamin\dropbox\proyectos\topdown_0\bullets.h
+	"includes.h"
+	"map.h"
+	"hitbox.h"
+
+1470372072 source:c:\users\benjamin\dropbox\proyectos\topdown_0\map.cpp
+	"map.h"
+
+1470370650 c:\users\benjamin\dropbox\proyectos\topdown_0\map.h
+	"includes.h"
+	"utilities.h"
+	"hitbox.h"
+	"pathfinding.h"
+
+1470358507 source:c:\users\benjamin\dropbox\proyectos\topdown_0\utilities.cpp
+	"utilities.h"
+
+1470357216 c:\users\benjamin\dropbox\proyectos\topdown_0\utilities.h
+	"includes.h"
+
+1470281019 source:c:\users\benjamin\dropbox\proyectos\topdown_0\zombie.cpp
+
+1470376887 source:c:\users\benjamin\dropbox\proyectos\topdown_0\pathfinding.cpp
+	"pathfinding.h"
+
+1470374189 c:\users\benjamin\dropbox\proyectos\topdown_0\pathfinding.h
+	"includes.h"
+	"hitbox.h"
+
+1470364623 c:\users\benjamin\dropbox\proyectos\topdown_0\hitbox.h
+	"includes.h"
+	"utilities.h"
+
+1470371865 source:c:\users\benjamin\dropbox\proyectos\topdown_0\hitbox.cpp
+	"hitbox.h"
+
